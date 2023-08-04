@@ -4,3 +4,4 @@ git revert change 1
 =======
 Testing reset commit 1
 >>>>>>> 4dabf58ab1bca7cc905f622c691a458d195cf083
+This iss Comparison lecture
