@@ -4,3 +4,4 @@ This iss Comparison lecture
 
 another git revert!
 Comparing again and again
+This is Stash Lecture, change in file 2

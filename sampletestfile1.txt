@@ -13,3 +13,4 @@ This iss Comparison lecture
 Another git revert change!!!!
 Comparing again and again
 
+This is Stash Lecture, change in file 1
