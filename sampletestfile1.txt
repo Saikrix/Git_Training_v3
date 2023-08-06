@@ -1,3 +1,15 @@
-This is Sample File 1
+This is Sample File 
+
 
 Merging branch 1
+
+
+git revert change 1
+
+Testing reset commit 1
+
+This iss Comparison lecture
+
+Another git revert change!!!!
+Comparing again and again
+
