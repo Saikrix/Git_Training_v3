@@ -3,3 +3,4 @@ This is Sample File 2
 This iss Comparison lecture
 
 another git revert!
+Comparing again and again
